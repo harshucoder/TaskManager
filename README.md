@@ -10,6 +10,10 @@ A simple and interactive task management app built with React. This application 
 - **Progress Bar**: Visual representation of task completion.
 - **Local Storage**: All tasks are saved in the browser's local storage to persist even after page refreshes.
 
+- ![image](https://github.com/user-attachments/assets/658d870b-3363-4042-9117-51f98ef1ff4b)
+![image](https://github.com/user-attachments/assets/05e29729-5fed-4b5b-a2c5-e44ffb20faf6)
+
+
 ## Technologies Used
 
 - React.js
